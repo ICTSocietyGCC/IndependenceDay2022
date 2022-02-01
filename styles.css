@@ -1,0 +1,20 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+
+#heading{
+    font-size: 3em;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px;
+    box-shadow: 2px 0px 100px 1px;
+    background-color: #daa52044;
+    border-radius: 50px;
+}
+p{
+    font-family: Bell MT;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px;
+}
